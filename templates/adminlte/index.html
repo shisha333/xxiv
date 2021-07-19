@@ -1,0 +1,421 @@
+{% extends 'adminlte/base.html' %}
+
+{% block content %}
+{% extends "base.html" %}
+
+{% load humanize%}
+
+{% block content %}
+
+<div class="container">
+<h1> WELCOME TO GO STICKY NOTES BOARD<h1><br><br>
+<h2>CREATE YOUR STICKY NOTE HERE:</h2>
+<style>
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  font-family:arial,sans-serif;
+  font-size:100%;
+  margin:1em;
+  background:gray;
+  color:#fff;
+}
+h2,p{
+  font-size:100%;
+  font-weight:normal;
+}
+ul,li{
+  list-style:none;
+}
+ul{
+  overflow:hidden;
+  padding:3em;
+}
+ul li a{
+  text-decoration:none;
+  color:#000;
+  background:#ffc;
+  display:block;
+  height:auto;
+  width:auto;
+  padding:1em;
+  -moz-box-shadow:5px 5px 7px rgba(33,33,33,1);
+  -webkit-box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  -moz-transition:-moz-transform .15s linear;
+  -o-transition:-o-transform .15s linear;
+  -webkit-transition:-webkit-transform .15s linear;
+}
+ul li{
+  margin:4em;
+  float:left;
+}
+ul li h2{
+  font-size:140%;
+  font-weight:bold;
+  padding-bottom:10px;
+}
+ul li p{
+  font-family:"Reenie Beanie",arial,sans-serif;
+  font-size:180%;
+}
+ul li a{
+  -webkit-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  -moz-transform:rotate(-6deg);
+}
+ul li:nth-child(even) a{
+  -o-transform:rotate(4deg);
+  -webkit-transform:rotate(4deg);
+  -moz-transform:rotate(4deg);
+  position:relative;
+  top:5px;
+  background:orange;
+}
+ul li:nth-child(3n) a{
+  -o-transform:rotate(-3deg);
+  -webkit-transform:rotate(-3deg);
+  -moz-transform:rotate(-3deg);
+  position:relative;
+  top:-5px;
+  background:#ccf;
+}
+ul li:nth-child(5n) a{
+  -o-transform:rotate(5deg);
+  -webkit-transform:rotate(5deg);
+  -moz-transform:rotate(5deg);
+  position:relative;
+  top:-10px;
+   background:#cfc;
+}
+ul li:nth-child(4n) a{
+  -o-transform:rotate(5deg);
+  -webkit-transform:rotate(5deg);
+  -moz-transform:rotate(5deg);
+  position:relative;
+  top:-10px;
+   background:pink;
+}
+ul li a:hover,ul li a:focus{
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -moz-box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-box-shadow: 10px 10px 7px rgba(0,0,0,.7);
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  position:relative;
+  z-index:5;
+}
+ol{text-align:center;}
+ol li{display:inline;padding-right:1em;}
+ol li a{color:#fff;}
+
+h2{
+background-color: purple;
+margin-right: 13%;
+margin-left: 13%;
+}
+
+h1{
+background-color: black;
+margin-right: 13%;
+margin-left: 13%;
+}
+div.container{
+    margin : center;
+}
+form{
+width: auto;
+height: auto;
+margin-right: 13%;
+margin-left: 13%;
+border-style: double;
+ background:silver;
+}
+</style>
+<form method="POST" border="1">
+<ul>
+    <li>
+      <a href="#">
+       {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+     <li>
+      <a href="#">
+       {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+     <li>
+      <a href="#">
+       {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+     <li>
+      <a href="#">
+       {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+    <li>
+      <a href="#">
+         {{form.errors}}
+   {% csrf_token %}
+   {% for field in form %}
+    
+    {{field.label}} 
+    {{field}} 
+    {{field.help_text}} 
+
+    <br/></br>
+            
+   {% endfor %}
+
+    <input type="submit" value="Add note">
+      </a>
+    </li>
+  </ul>
+</form>
+</div>
+
+
+{% endblock content %}
+ 
+
+
+{% endblock %}

@@ -1,0 +1,1275 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-24 15:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: dern/settings.py:159
+msgid "France"
+msgstr ""
+
+#: dern/settings.py:160
+msgid "English (US)"
+msgstr ""
+
+#: dern_app/models.py:73
+msgid "Name of Organisation"
+msgstr "Nom de l'organisation"
+
+#: dern_app/models.py:81
+msgid "Address of Organisation"
+msgstr "Adresse de l'organisation"
+
+#: dern_app/models.py:85 dern_app/models.py:132 dern_ph_app/models.py:57
+msgid "Surface "
+msgstr "Surface"
+
+#: dern_app/models.py:102 dern_ph_app/models.py:152
+#: templates/admin/dern_ph_app/opslp/commit.html:74
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:87
+msgid "Position"
+msgstr "Position"
+
+#: dern_app/models.py:105 dern_ph_app/models.py:175
+msgid "first name"
+msgstr "Prénom"
+
+#: dern_app/models.py:106 dern_ph_app/models.py:176
+msgid "last name"
+msgstr "nom de famille"
+
+#: dern_ph_app/models.py:13 dern_ph_app/models.py:160
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:83
+#: templates/admin/dern_ph_app/opslp/members.html:67
+msgid "Male"
+msgstr ""
+
+#: dern_ph_app/models.py:14
+msgid "Femle"
+msgstr ""
+
+#: dern_ph_app/models.py:21 dern_ph_app/models.py:174 dern_ph_app/models.py:410
+msgid "Program (DERN/PH)"
+msgstr "Programme (DERN / PH)"
+
+#: dern_ph_app/models.py:23
+msgid "Name Of OP/SLP"
+msgstr "Nom de l'OP / SLP"
+
+#: dern_ph_app/models.py:29
+msgid "district"
+msgstr "district"
+
+#: dern_ph_app/models.py:32
+msgid "Gender"
+msgstr "Le sexe"
+
+#: dern_ph_app/models.py:33
+msgid "Function in the PO"
+msgstr "Fonction dans le PO"
+
+#: dern_ph_app/models.py:34
+msgid "Heritage of the PO"
+msgstr "Patrimoine de l'OP"
+
+#: dern_ph_app/models.py:35
+msgid "Area of the commom field"
+msgstr "Zone du champ commun"
+
+#: dern_ph_app/models.py:36
+msgid "Common Breeding"
+msgstr "Reproduction commune"
+
+#: dern_ph_app/models.py:37
+msgid "Storege Location"
+msgstr "Emplacement de stockage"
+
+#: dern_ph_app/models.py:38
+msgid "Planning of the PO"
+msgstr "Planification du PO"
+
+#: dern_ph_app/models.py:39
+msgid "SMART Goal"
+msgstr "Objectif SMART"
+
+#: dern_ph_app/models.py:40
+msgid "Agricultural Sector"
+msgstr "Secteur agricole"
+
+#: dern_ph_app/models.py:41
+msgid "AGR"
+msgstr "AGR"
+
+#: dern_ph_app/models.py:42
+msgid "Share of members"
+msgstr "Part des membres"
+
+#: dern_ph_app/models.py:43
+msgid "Tontine"
+msgstr "Tontine"
+
+#: dern_ph_app/models.py:44
+msgid "Certificate type of Op/Slp"
+msgstr "Type de certificat d'Op / Slp"
+
+#: dern_ph_app/models.py:45
+msgid "Address of OP/SLP"
+msgstr "Adresse de l'OP / SLP"
+
+#: dern_ph_app/models.py:49 templates/admin/dern_ph_app/opslp/members.html:65
+msgid "Creation Date"
+msgstr "Date de création"
+
+#: dern_ph_app/models.py:117
+msgid "Name Of Product"
+msgstr "Nom du produit"
+
+#: dern_ph_app/models.py:131
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:86
+msgid "President"
+msgstr "Président"
+
+#: dern_ph_app/models.py:132
+msgid "Vise President"
+msgstr "Vice président"
+
+#: dern_ph_app/models.py:133
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:88
+msgid "Treasurer"
+msgstr "Trésorier"
+
+#: dern_ph_app/models.py:134
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:89
+msgid "Secretary"
+msgstr "secrétaire"
+
+#: dern_ph_app/models.py:135
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:90
+msgid "Advisers"
+msgstr "Conseillers"
+
+#: dern_ph_app/models.py:136
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:91
+msgid "Auditors"
+msgstr "Auditeurs"
+
+#: dern_ph_app/models.py:161
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:84
+#: templates/admin/dern_ph_app/opslp/members.html:68
+msgid "Female"
+msgstr "Femme"
+
+#: dern_ph_app/models.py:164
+msgid "Single"
+msgstr "Célibataire"
+
+#: dern_ph_app/models.py:165
+msgid "Married"
+msgstr "Marié"
+
+#: dern_ph_app/models.py:166
+msgid "Devorce"
+msgstr "Divorce"
+
+#: dern_ph_app/models.py:177
+msgid "Marital Status"
+msgstr "État civil"
+
+#: dern_ph_app/models.py:178
+msgid "Age"
+msgstr "Age"
+
+#: dern_ph_app/models.py:179
+msgid "Level of study"
+msgstr "Niveau d'études"
+
+#: dern_ph_app/models.py:187
+msgid "householdd size"
+msgstr "la taille du ménage"
+
+#: dern_ph_app/models.py:188
+msgid "Other Occupation of the beneficiary member"
+msgstr "Autre occupation du membre bénéficiaire"
+
+#: dern_ph_app/models.py:189
+msgid "Possession"
+msgstr "Possession"
+
+#: dern_ph_app/models.py:190
+msgid "Condition of house"
+msgstr "État de la maison"
+
+#: dern_ph_app/models.py:191
+msgid "Full address"
+msgstr "Adresse complète"
+
+#: dern_ph_app/models.py:192
+msgid "Area in the land registration certificate"
+msgstr "Zone dans le certificat d'enregistrement foncier"
+
+#: dern_ph_app/models.py:193 templates/admin/dern_ph_app/opslp/commit.html:75
+#: templates/admin/dern_ph_app/opslp/members.html:79
+msgid "Phone"
+msgstr "Téléphone"
+
+#: dern_ph_app/models.py:194
+msgid "Date Of Birth"
+msgstr "Date de naissance"
+
+#: dern_ph_app/models.py:195
+msgid "gender"
+msgstr "le sexe"
+
+#: dern_ph_app/models.py:196
+msgid "National ID"
+msgstr "carte d'identité"
+
+#: dern_ph_app/models.py:197
+msgid "street"
+msgstr "rue"
+
+#: dern_ph_app/models.py:198
+msgid "house"
+msgstr "maison"
+
+#: dern_ph_app/models.py:211
+msgid "Cultivation techniques used"
+msgstr "Techniques de culture utilisées"
+
+#: dern_ph_app/models.py:212
+msgid "Have a Compost"
+msgstr "Avoir un compost"
+
+#: dern_ph_app/models.py:213
+msgid "Erosion control in its fields"
+msgstr "Contrôle de l'érosion dans ses champs"
+
+#: dern_ph_app/models.py:214
+#, fuzzy
+#| msgid "have the Fruit trees at home"
+msgid "See the Fruit trees at home"
+msgstr "Avoir les arbres fruitiers à la maison"
+
+#: dern_ph_app/models.py:215
+#, fuzzy
+#| msgid "Kitchen garden"
+msgid "Kichen garden"
+msgstr "Jardin des légumes"
+
+#: dern_ph_app/models.py:216
+msgid "Make an improved breeding and type of animals raised"
+msgstr "Améliorer l'élevage et le type d'animaux élevés"
+
+#: dern_ph_app/models.py:217
+msgid "Animal shelter"
+msgstr "Refuge animalier"
+
+#: dern_ph_app/models.py:218
+msgid "Well-filled household notebook"
+msgstr "Cahier de ménage bien rempli"
+
+#: dern_ph_app/models.py:219
+msgid "The household has an IGA"
+msgstr "Le ménage dispose d'un IGA"
+
+#: dern_ph_app/models.py:220
+msgid "Participation in the Tontine"
+msgstr "Participation à la Tontine"
+
+#: dern_ph_app/models.py:221
+msgid "Have an Account at the Bank"
+msgstr "Avoir un compte à la banque"
+
+#: dern_ph_app/models.py:222
+msgid "Number of meals per day (on average)"
+msgstr "Nombre de repas par jour (en moyenne)"
+
+#: dern_ph_app/models.py:223
+msgid "Composition of meals on average"
+msgstr "Composition des repas en moyenne"
+
+#: dern_ph_app/models.py:224
+msgid "Uses Organic Pest Control Products"
+msgstr "Utilise des produits antiparasitaires biologiques"
+
+#: dern_ph_app/models.py:225
+msgid "Market for insured production"
+msgstr "Marché de la production assurée"
+
+#: dern_ph_app/models.py:226
+msgid "job"
+msgstr "emploi"
+
+#: dern_ph_app/models.py:227
+msgid "Agricultural area of ​​the household "
+msgstr "Superficie agricole du ménage"
+
+#: dern_ph_app/models.py:228
+msgid "Date Joined"
+msgstr "Date d'adhésion"
+
+#: dern_ph_app/models.py:232
+msgid "beneficiary"
+msgstr "Bénéficiaire"
+
+#: dern_ph_app/models.py:233
+msgid "beneficiaries"
+msgstr "les bénéficiaires"
+
+#: dern_ph_app/models.py:269 templates/admin/dern_ph_app/survey/report.html:93
+msgid "Tool title"
+msgstr "Titre de l'outil"
+
+#: dern_ph_app/models.py:284
+#, fuzzy
+#| msgid "tools"
+msgid "tool"
+msgstr "outils"
+
+#: dern_ph_app/models.py:285
+msgid "tools"
+msgstr "outils"
+
+#: dern_ph_app/models.py:313
+msgid "Yes/No"
+msgstr "Oui/Non"
+
+#: dern_ph_app/models.py:314
+msgid "Number"
+msgstr "Nombre"
+
+#: dern_ph_app/models.py:315
+msgid "Text"
+msgstr "Texte"
+
+#: dern_ph_app/models.py:316
+msgid "Date"
+msgstr "Date"
+
+#: dern_ph_app/models.py:325
+msgid "Question"
+msgstr "Question"
+
+#: dern_ph_app/models.py:326
+msgid "Type of question"
+msgstr "Type de question"
+
+#: dern_ph_app/models.py:332
+msgid "question"
+msgstr ""
+
+#: dern_ph_app/models.py:333
+msgid "questions"
+msgstr "questions"
+
+#: dern_ph_app/models.py:352
+msgid "ADR"
+msgstr "ADR"
+
+#: dern_ph_app/models.py:368
+msgid "Answer"
+msgstr "Répondre"
+
+#: dern_ph_app/models.py:369 dern_ph_app/models.py:553
+msgid "Editable"
+msgstr "Modifiable"
+
+#: dern_ph_app/models.py:369
+msgid "mark record editable"
+msgstr "marquer l'enregistrement comme modifiable"
+
+#: dern_ph_app/models.py:370
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:111
+msgid "Approve"
+msgstr "Approuver"
+
+#: dern_ph_app/models.py:370
+msgid "Approve change request"
+msgstr "Approuver la demande de modification"
+
+#: dern_ph_app/models.py:371
+msgid "collected at"
+msgstr "collecté à"
+
+#: dern_ph_app/models.py:372
+msgid "modified at"
+msgstr "modifié à"
+
+#: dern_ph_app/models.py:381 dern_ph_app/models.py:382
+msgid "collected_data"
+msgstr "collectées_données"
+
+#: dern_ph_app/models.py:392
+msgid "About partner"
+msgstr "À propos du partenaire"
+
+#: dern_ph_app/models.py:396
+msgid "partner"
+msgstr "partenaire"
+
+#: dern_ph_app/models.py:397
+msgid "partners"
+msgstr "les partenaires"
+
+#: dern_ph_app/models.py:411 dern_ph_app/models.py:594
+#: templates/admin/dern_ph_app/opslp/detail.html:61
+#: templates/admin/dern_ph_app/opslp/detail.html:95
+#: templates/admin/dern_ph_app/opslp/members.html:63
+#: templates/admin/dern_ph_app/project/activity/detail.html:98
+#: templates/admin/dern_ph_app/project/activity/index.html:134
+msgid "name"
+msgstr "Nom"
+
+#: dern_ph_app/models.py:412 dern_ph_app/models.py:517
+#: dern_ph_app/models.py:550 dern_ph_app/models.py:586
+#: dern_ph_app/models.py:595
+#: templates/admin/dern_ph_app/project/activity/index.html:135
+msgid "start"
+msgstr "début"
+
+#: dern_ph_app/models.py:413 dern_ph_app/models.py:551
+#: dern_ph_app/models.py:596
+#: templates/admin/dern_ph_app/project/activity/index.html:136
+msgid "end"
+msgstr "fin"
+
+#: dern_ph_app/models.py:418
+msgid "District"
+msgstr "District"
+
+#: dern_ph_app/models.py:420
+#: templates/admin/dern_ph_app/project/activity/index.html:88
+msgid "Global Objective"
+msgstr "Objectif global"
+
+#: dern_ph_app/models.py:424
+msgid "project"
+msgstr "projet"
+
+#: dern_ph_app/models.py:425
+msgid "projects"
+msgstr "projets"
+
+#: dern_ph_app/models.py:430 templates/admin/dern_ph_app/opslp/detail.html:99
+#: templates/admin/dern_ph_app/project/activity/detail.html:103
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:88
+msgid "Action"
+msgstr "action"
+
+#: dern_ph_app/models.py:457
+msgid "project Objective"
+msgstr "Objectif du projet"
+
+#: dern_ph_app/models.py:458
+#: templates/admin/dern_ph_app/project/activity/index.html:98
+msgid "project objectives"
+msgstr "objectifs du projet"
+
+#: dern_ph_app/models.py:474
+msgid "Description"
+msgstr "La description"
+
+#: dern_ph_app/models.py:475
+msgid "number"
+msgstr "nombre"
+
+#: dern_ph_app/models.py:481
+msgid "objective indicater"
+msgstr "indicateur objectif"
+
+#: dern_ph_app/models.py:482
+msgid "objective indicaters"
+msgstr "indicateurs objectif"
+
+#: dern_ph_app/models.py:506
+msgid "fund"
+msgstr "fonds"
+
+#: dern_ph_app/models.py:507
+msgid "funds"
+msgstr "funds"
+
+#: dern_ph_app/models.py:516 dern_ph_app/models.py:585
+msgid "planning"
+msgstr "Planification"
+
+#: dern_ph_app/models.py:518 dern_ph_app/models.py:587
+msgid "pending"
+msgstr "en attente"
+
+#: dern_ph_app/models.py:519 dern_ph_app/models.py:588
+msgid "on going"
+msgstr "en cours"
+
+#: dern_ph_app/models.py:520 dern_ph_app/models.py:589
+msgid "done"
+msgstr "terminé"
+
+#: dern_ph_app/models.py:521 dern_ph_app/models.py:522
+#: dern_ph_app/models.py:590 dern_ph_app/models.py:591
+msgid "failed"
+msgstr "échoué"
+
+#: dern_ph_app/models.py:538
+msgid "Project Objective"
+msgstr "Objectif du projet"
+
+#: dern_ph_app/models.py:541 templates/admin/dern_ph_app/project/report.html:98
+msgid "Awareness"
+msgstr "Conscience"
+
+#: dern_ph_app/models.py:542 templates/admin/dern_ph_app/project/report.html:99
+msgid "Training"
+msgstr "Formation"
+
+#: dern_ph_app/models.py:543
+msgid "Monitiring And evaluation"
+msgstr "Contrôle et évaluation"
+
+#: dern_ph_app/models.py:552 dern_ph_app/models.py:597
+#: templates/admin/dern_ph_app/opslp/detail.html:72
+#: templates/admin/dern_ph_app/project/activity/detail.html:75
+#: templates/admin/dern_ph_app/project/report.html:81
+msgid "description"
+msgstr "la description"
+
+#: dern_ph_app/models.py:554 dern_ph_app/models.py:598
+msgid "status"
+msgstr "statut"
+
+#: dern_ph_app/models.py:560
+msgid "activity"
+msgstr "activité"
+
+#: dern_ph_app/models.py:561
+msgid "activities"
+msgstr "Activités"
+
+#: dern_ph_app/models.py:611
+msgid "sub_activity"
+msgstr "sous_activité"
+
+#: dern_ph_app/models.py:612
+msgid "sub_activities"
+msgstr "sous_activités"
+
+#: templates/admin/actions.html:8
+msgid "Run the selected action"
+msgstr "Exécutez l'action sélectionnée"
+
+#: templates/admin/actions.html:8
+msgid "Go"
+msgstr "Aller"
+
+#: templates/admin/actions.html:16
+msgid "Click here to select the objects across all pages"
+msgstr "Cliquez ici pour sélectionner les objets sur toutes les pages"
+
+#: templates/admin/actions.html:16
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr ""
+
+#: templates/admin/actions.html:18
+msgid "Clear selection"
+msgstr "Effacer la sélection"
+
+#: templates/admin/base.html:75 templates/admin/base_site.html:8
+msgid "Django administration"
+msgstr "Administration Django"
+
+#: templates/admin/base.html:164
+msgid "Documentation"
+msgstr "Documentation"
+
+#: templates/admin/base.html:168
+msgid "Change password"
+msgstr "Changer le mot de passe"
+
+#: templates/admin/base.html:170
+msgid "Log out"
+msgstr "Se déconnecter"
+
+#: templates/admin/base.html:188 templates/admin/change_form.html:18
+msgid "Home"
+msgstr "Accueil"
+
+#: templates/admin/base_site.html:3
+msgid "Django site admin"
+msgstr "Administrateur du site Django"
+
+#: templates/admin/change_form.html:22
+#: templates/admin/change_list_object_tools.html:9
+#, python-format
+msgid "Add %(name)s"
+msgstr ""
+
+#: templates/admin/change_form.html:44 templates/admin/change_list.html:57
+#: templates/admin/dern_ph_app/area/change_list.html:56
+#: templates/admin/dern_ph_app/beneficiary/change_list.html:81
+#: templates/admin/dern_ph_app/category/change_list.html:53
+#: templates/admin/dern_ph_app/opslp/change_list.html:62
+#: templates/admin/dern_ph_app/project/activity/add_form.html:65
+#: templates/admin/dern_ph_app/project/activity/change_form.html:72
+#: templates/admin/dern_ph_app/project/activity/request_permission_form.html:65
+#: templates/admin/dern_ph_app/project/activity/subactivity/add_form.html:65
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_form.html:65
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:63
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:80
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:80
+#: templates/admin/dern_ph_app/project/objectives/indicators/add_form.html:73
+#: templates/admin/dern_ph_app/project/objectives/indicators/change_form.html:79
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:65
+#: templates/admin/dern_ph_app/survey/collecteddata/approve.html:66
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:65
+#: templates/admin/dern_ph_app/survey/collecteddata/request_permission_form.html:65
+#: templates/admin/login.html:16
+msgid "Please correct the error below."
+msgstr "Se il vous plaît corriger les erreurs ci-dessous"
+
+#: templates/admin/change_form.html:44 templates/admin/change_list.html:57
+#: templates/admin/dern_ph_app/area/change_list.html:56
+#: templates/admin/dern_ph_app/beneficiary/change_list.html:81
+#: templates/admin/dern_ph_app/category/change_list.html:53
+#: templates/admin/dern_ph_app/opslp/change_list.html:62
+#: templates/admin/dern_ph_app/project/activity/add_form.html:65
+#: templates/admin/dern_ph_app/project/activity/change_form.html:72
+#: templates/admin/dern_ph_app/project/activity/request_permission_form.html:65
+#: templates/admin/dern_ph_app/project/activity/subactivity/add_form.html:65
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_form.html:65
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:63
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:80
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:80
+#: templates/admin/dern_ph_app/project/objectives/indicators/add_form.html:73
+#: templates/admin/dern_ph_app/project/objectives/indicators/change_form.html:79
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:65
+#: templates/admin/dern_ph_app/survey/collecteddata/approve.html:66
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:65
+#: templates/admin/dern_ph_app/survey/collecteddata/request_permission_form.html:65
+#: templates/admin/login.html:16
+msgid "Please correct the errors below."
+msgstr "Se il vous plaît corriger les erreurs ci-dessous"
+
+#: templates/admin/change_list.html:32
+#: templates/admin/dern_ph_app/area/change_list.html:32
+#: templates/admin/dern_ph_app/beneficiary/change_list.html:39
+#: templates/admin/dern_ph_app/category/change_list.html:32
+#: templates/admin/dern_ph_app/opslp/change_list.html:32
+#: templates/admin/dern_ph_app/opslp/commit.html:37
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:37
+#: templates/admin/dern_ph_app/opslp/detail.html:37
+#: templates/admin/dern_ph_app/opslp/members.html:37
+#: templates/admin/dern_ph_app/project/activity/add_form.html:38
+#: templates/admin/dern_ph_app/project/activity/change_form.html:38
+#: templates/admin/dern_ph_app/project/activity/detail.html:37
+#: templates/admin/dern_ph_app/project/activity/index.html:37
+#: templates/admin/dern_ph_app/project/activity/request_permission_form.html:38
+#: templates/admin/dern_ph_app/project/activity/subactivity/add_form.html:38
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_form.html:38
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:37
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:38
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:38
+#: templates/admin/dern_ph_app/project/objectives/indicators/add_form.html:38
+#: templates/admin/dern_ph_app/project/objectives/indicators/change_form.html:38
+#: templates/admin/dern_ph_app/project/report.html:37
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:38
+#: templates/admin/dern_ph_app/survey/collecteddata/approve.html:38
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:38
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:37
+#: templates/admin/dern_ph_app/survey/collecteddata/request_permission_form.html:38
+#: templates/admin/dern_ph_app/survey/report.html:37
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: templates/admin/change_list.html:68
+#: templates/admin/dern_ph_app/area/change_list.html:67
+#: templates/admin/dern_ph_app/beneficiary/change_list.html:92
+#: templates/admin/dern_ph_app/category/change_list.html:64
+#: templates/admin/dern_ph_app/opslp/change_list.html:76
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:74
+msgid "Filter"
+msgstr "Filtre"
+
+#: templates/admin/dern_ph_app/opslp/change_list.html:68
+msgid "committees and organizing and preserving"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/commit.html:63
+msgid "OP/SLP name"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/commit.html:69
+#, fuzzy
+#| msgid "Editable"
+msgid "Table"
+msgstr "Modifiable"
+
+#: templates/admin/dern_ph_app/opslp/commit.html:69
+msgid "Commitees"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/commit.html:73
+msgid "Names"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:56
+#: templates/admin/dern_ph_app/opslp/members.html:57
+#: templates/admin/dern_ph_app/project/activity/index.html:71
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:50
+#: templates/admin/dern_ph_app/project/report.html:63
+#: templates/admin/dern_ph_app/survey/report.html:62
+msgid "Print"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:70
+msgid "Identification of members"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:71
+#: templates/admin/dern_ph_app/opslp/members.html:78
+#, fuzzy
+#| msgid "location"
+msgid "Location"
+msgstr "emplacement"
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:72
+#, fuzzy
+#| msgid "Creation Date"
+msgid "Creation date"
+msgstr "Date de création"
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:73
+msgid "Start date of collaboration"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:74
+#, fuzzy
+#| msgid "Share of members"
+msgid "Number of members"
+msgstr "Part des membres"
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:75
+msgid "Main gainful activity"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:76
+msgid "Name of the members of the OP Committee"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:80
+msgid "Cell"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:81
+msgid "Village"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/committees_organizing_preserving.html:87
+#, fuzzy
+#| msgid "Vise President"
+msgid "Vice President"
+msgstr "Vice président"
+
+#: templates/admin/dern_ph_app/opslp/detail.html:63
+#, fuzzy
+#| msgid "Certificate type of Op/Slp"
+msgid "Certificate Type"
+msgstr "Type de certificat d'Op / Slp"
+
+#: templates/admin/dern_ph_app/opslp/detail.html:64
+msgid "Total member"
+msgstr ""
+
+#: templates/admin/dern_ph_app/opslp/detail.html:65
+#: templates/admin/dern_ph_app/opslp/detail.html:97
+#: templates/admin/dern_ph_app/project/activity/detail.html:67
+#: templates/admin/dern_ph_app/project/activity/detail.html:100
+#: templates/admin/dern_ph_app/project/activity/index.html:81
+#: templates/admin/dern_ph_app/project/report.html:74
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:76
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:87
+#: templates/admin/dern_ph_app/survey/report.html:96
+#, fuzzy
+#| msgid "end"
+msgid "End"
+msgstr "fin"
+
+#: templates/admin/dern_ph_app/opslp/detail.html:79
+#: templates/admin/dern_ph_app/project/objectives/indicators/add_form.html:67
+#, fuzzy
+#| msgid "Add Objective"
+msgid "Objective"
+msgstr "Ajouter un objectif"
+
+#: templates/admin/dern_ph_app/opslp/detail.html:96
+#: templates/admin/dern_ph_app/project/activity/detail.html:66
+#: templates/admin/dern_ph_app/project/activity/detail.html:99
+#: templates/admin/dern_ph_app/project/activity/index.html:80
+#: templates/admin/dern_ph_app/project/report.html:73
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:75
+#: templates/admin/dern_ph_app/survey/report.html:95
+#, fuzzy
+#| msgid "start"
+msgid "Start"
+msgstr "début"
+
+#: templates/admin/dern_ph_app/opslp/detail.html:98
+#: templates/admin/dern_ph_app/project/activity/detail.html:102
+#: templates/admin/dern_ph_app/project/activity/index.html:138
+#, fuzzy
+#| msgid "description"
+msgid "desrciption"
+msgstr "la description"
+
+#: templates/admin/dern_ph_app/opslp/detail.html:126
+#: templates/admin/dern_ph_app/project/activity/detail.html:131
+#, fuzzy
+#| msgid "Add Activity"
+msgid "Add Sub Activity"
+msgstr "Ajouter une activité"
+
+#: templates/admin/dern_ph_app/opslp/members.html:66
+#, fuzzy
+#| msgid "Share of members"
+msgid "Total members"
+msgstr "Part des membres"
+
+#: templates/admin/dern_ph_app/opslp/members.html:77
+#, fuzzy
+#| msgid "beneficiary"
+msgid "Beneficiary name"
+msgstr "Bénéficiaire"
+
+#: templates/admin/dern_ph_app/project/activity/add_form.html:59
+#: templates/admin/dern_ph_app/project/activity/detail.html:64
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:74
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:73
+#: templates/admin/dern_ph_app/project/report.html:71
+msgid "Project"
+msgstr "Projet"
+
+#: templates/admin/dern_ph_app/project/activity/add_form.html:86
+#: templates/admin/dern_ph_app/project/activity/subactivity/add_form.html:86
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_form.html:86
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:112
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:112
+msgid "Submit Form"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/change_form.html:56
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:58
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:56
+#: templates/admin/dern_ph_app/project/objectives/indicators/add_form.html:56
+#: templates/admin/dern_ph_app/project/objectives/indicators/change_form.html:56
+#: templates/admin/dern_ph_app/project/report.html:55
+msgid "Project Detail"
+msgstr "Détail du projet"
+
+#: templates/admin/dern_ph_app/project/activity/change_form.html:66
+#: templates/admin/dern_ph_app/project/activity/subactivity/add_form.html:59
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_form.html:59
+#, fuzzy
+#| msgid "activity"
+msgid "Activity"
+msgstr "activité"
+
+#: templates/admin/dern_ph_app/project/activity/change_form.html:93
+#, fuzzy
+#| msgid "Add Activity"
+msgid "Update Activity"
+msgstr "Ajouter une activité"
+
+#: templates/admin/dern_ph_app/project/activity/detail.html:61
+#: templates/admin/dern_ph_app/project/report.html:69
+#, fuzzy
+#| msgid "activity"
+msgid "Activity name"
+msgstr "activité"
+
+#: templates/admin/dern_ph_app/project/activity/detail.html:65
+#: templates/admin/dern_ph_app/project/activity/index.html:79
+#: templates/admin/dern_ph_app/project/report.html:72
+msgid "Total Amount"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/detail.html:82
+#, fuzzy
+#| msgid "Add Objective"
+msgid "Activity Objective"
+msgstr "Ajouter un objectif"
+
+#: templates/admin/dern_ph_app/project/activity/detail.html:101
+msgid "Amount"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/index.html:56
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:65
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:64
+msgid "Add Objective"
+msgstr "Ajouter un objectif"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:64
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:63
+msgid "Generate Report"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/index.html:77
+#, fuzzy
+#| msgid "project"
+msgid "project name"
+msgstr "projet"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:102
+#, fuzzy
+#| msgid "project objectives"
+msgid "objectives"
+msgstr "objectifs du projet"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:103
+#, fuzzy
+#| msgid "Add Indicators"
+msgid "indicators"
+msgstr "Ajouter des indicateurs"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:130
+#: templates/admin/dern_ph_app/project/report.html:93
+#, fuzzy
+#| msgid "activities"
+msgid "Activities"
+msgstr "Activités"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:137
+msgid "amount"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/index.html:139
+#, fuzzy
+#| msgid "Action"
+msgid "action"
+msgstr "action"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:159
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:101
+#: templates/admin/submit_line.html:7
+msgid "Delete"
+msgstr "Supprimer"
+
+#: templates/admin/dern_ph_app/project/activity/index.html:165
+msgid "update"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/request_permission_form.html:72
+#: templates/admin/dern_ph_app/survey/collecteddata/request_permission_form.html:72
+msgid "Are you sure to request edit for this record"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/request_permission_form.html:88
+msgid "Click to request edit permission"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:85
+msgid "ID"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/activity/subactivity/change_list.html:86
+msgid "Name"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/objectives/add_form.html:101
+#, fuzzy
+#| msgid "objective indicaters"
+msgid "Save Objective To Add Indicators"
+msgstr "indicateurs objectif"
+
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:100
+msgid "Update Objective"
+msgstr "Mettre à jour l'objectif"
+
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:102
+msgid "Add Indicators"
+msgstr "Ajouter des indicateurs"
+
+#: templates/admin/dern_ph_app/project/objectives/change_form.html:103
+msgid "Add Activity"
+msgstr "Ajouter une activité"
+
+#: templates/admin/dern_ph_app/project/objectives/indicators/add_form.html:94
+#, fuzzy
+#| msgid "Add Indicators"
+msgid "Save  & Add Indicators"
+msgstr "Ajouter des indicateurs"
+
+#: templates/admin/dern_ph_app/project/report.html:94
+#, fuzzy
+#| msgid "Number of meals per day (on average)"
+msgid "Number of Sessions per month from"
+msgstr "Nombre de repas par jour (en moyenne)"
+
+#: templates/admin/dern_ph_app/project/report.html:95
+msgid "Observations"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/report.html:100
+#, fuzzy
+#| msgid "Monitiring And evaluation"
+msgid "Monitoring and evaluation"
+msgstr "Contrôle et évaluation"
+
+#: templates/admin/dern_ph_app/project/report.html:101
+msgid "Total"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/report.html:104
+#: templates/admin/dern_ph_app/project/report.html:106
+#: templates/admin/dern_ph_app/project/report.html:108
+#: templates/admin/dern_ph_app/project/report.html:110
+msgid "Planned"
+msgstr ""
+
+#: templates/admin/dern_ph_app/project/report.html:105
+#: templates/admin/dern_ph_app/project/report.html:107
+#: templates/admin/dern_ph_app/project/report.html:109
+#: templates/admin/dern_ph_app/project/report.html:111
+msgid "Completed"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:59
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:59
+msgid "Tool"
+msgstr "outil"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:77
+#, fuzzy
+#| msgid "beneficiary"
+msgid "Select Beneficiary"
+msgstr "Bénéficiaire"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:97
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:96
+#, fuzzy
+#| msgid "Yes/No"
+msgid "Yes"
+msgstr "Oui/Non"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/add_form.html:98
+#: templates/admin/dern_ph_app/survey/collecteddata/change_form.html:97
+msgid "No"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/collecteddata/approve.html:72
+msgid "Are you sure to approve edit for this record"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/collecteddata/approve.html:88
+msgid "Click to  Approve"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:56
+#: templates/admin/dern_ph_app/survey/report.html:53
+#, fuzzy
+#| msgid "Tool title"
+msgid "Tool List"
+msgstr "Titre de l'outil"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:60
+#: templates/admin/dern_ph_app/survey/report.html:57
+#, fuzzy
+#| msgid "collected at"
+msgid "Collect Data"
+msgstr "collecté à"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:73
+msgid "Survey title"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:85
+#, fuzzy
+#| msgid "beneficiary"
+msgid "Beneficiary"
+msgstr "Bénéficiaire"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:86
+msgid "QUESTION"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/collecteddata/detail.html:124
+#, fuzzy
+#| msgid "collected_data"
+msgid "Collect data"
+msgstr "collectées_données"
+
+#: templates/admin/dern_ph_app/survey/collecteddata/request_permission_form.html:88
+msgid "Submit Request"
+msgstr ""
+
+#: templates/admin/dern_ph_app/survey/report.html:106
+#, fuzzy
+#| msgid "Name Of OP/SLP"
+msgid "Name of the OP / SLP"
+msgstr "Nom de l'OP / SLP"
+
+#: templates/admin/dern_ph_app/survey/report.html:107
+#, fuzzy
+#| msgid "Share of members"
+msgid "Name of member"
+msgstr "Part des membres"
+
+#: templates/admin/dern_ph_app/survey/report.html:109
+msgid "No data available"
+msgstr ""
+
+#: templates/admin/edit_inline/stacked.html:13
+#: templates/admin/edit_inline/tabular.html:36 templates/admin/index.html:44
+msgid "Change"
+msgstr "Changement"
+
+#: templates/admin/edit_inline/stacked.html:13
+#: templates/admin/edit_inline/tabular.html:36
+msgid "View"
+msgstr "Vue"
+
+#: templates/admin/edit_inline/stacked.html:15
+#: templates/admin/edit_inline/tabular.html:38
+msgid "View on site"
+msgstr "Voir sur place"
+
+#: templates/admin/edit_inline/tabular.html:21
+msgid "Delete?"
+msgstr "Supprimer"
+
+#: templates/admin/index.html:17
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr ""
+
+#: templates/admin/index.html:38
+msgid "Add"
+msgstr "Ajouter"
+
+#: templates/admin/index.html:61
+msgid "You don't have permission to edit anything."
+msgstr "Vous n'êtes pas autorisé à modifier quoi que ce soit."
+
+#: templates/admin/login.html:29
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+
+#: templates/admin/search_form.html:7
+msgid "Search"
+msgstr "Chercher"
+
+#: templates/admin/search_form.html:9
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/admin/search_form.html:9
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr ""
+
+#: templates/admin/search_form.html:9
+msgid "Show all"
+msgstr "Afficher tout"
+
+#: templates/admin/submit_line.html:4
+msgid "Save"
+msgstr "sauver"
+
+#: templates/admin/submit_line.html:9
+msgid "Save as new"
+msgstr "Enregistrer comme nouveau"
+
+#: templates/admin/submit_line.html:10
+msgid "Save and add another"
+msgstr "Enregistrez et ajoutez un autre"
+
+#: templates/admin/submit_line.html:11
+msgid "Save and continue editing"
+msgstr "Enregistrer et continuer à modifier"
+
+#: templates/admin/submit_line.html:11
+msgid "Save and view"
+msgstr "Enregistrer et afficher"
+
+#: templates/admin/submit_line.html:12
+msgid "Close"
+msgstr "Fermer"
+
+#~ msgid "Permissions"
+#~ msgstr "Autorisations"
+
+#~ msgid "Important dates"
+#~ msgstr "Rendez-vous importants"
+
+#~ msgid "COORDINATOR"
+#~ msgstr "COORDINATEUR"
+
+#~ msgid "SUPERVISOR"
+#~ msgstr "SUPERVISEUR"
+
+#~ msgid "email address"
+#~ msgstr "adresse e-mail"
+
+#~ msgid "Category"
+#~ msgstr "Catégorie"
+
+#~ msgid "staff status"
+#~ msgstr "statut du personnel"
+
+#~ msgid "Designates whether the user can log into this admin site."
+#~ msgstr ""
+#~ "Désigne si l'utilisateur peut se connecter à ce site d'administration."
+
+#~ msgid "active"
+#~ msgstr "active"
+
+#~ msgid ""
+#~ "Designates whether this user should be treated as active. Unselect this "
+#~ "instead of deleting accounts."
+#~ msgstr ""
+#~ "Indique si cet utilisateur doit être traité comme actif. Désélectionnez "
+#~ "ceci au lieu de supprimer des comptes."
+
+#~ msgid "date joined"
+#~ msgstr "date d'adhésion"
+
+#~ msgid "user"
+#~ msgstr "utilisateur"
+
+#~ msgid "users"
+#~ msgstr "utilisateurs"
+
+#~ msgid "Add About"
+#~ msgstr "Ajouter à propos"
+
+#~ msgid "Province"
+#~ msgstr "Province"
+
+#~ msgid "sector"
+#~ msgstr "secteur"
+
+#~ msgid "cell"
+#~ msgstr "cellule"
+
+#~ msgid "supervisor"
+#~ msgstr "superviseur"

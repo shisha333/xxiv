@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% load humanize%}
+
+{% block content %}
+
+   <h1 >WELCOME TO XXIV</h1>
+   <form method="post" action="{% url 'add-customer-order' %}" >
+      {% csrf_token %}
+      <p>
+      Title:<input type="text" name="title"/>
+      </p>
+      <p>
+      Name:<input type="text" name="name"/>
+      </p>
+      <p>
+      Phone:<input type="text" name="phone"/>
+      </p>
+      <p>
+      Email:<input type="text" name="email"/>
+      </p>
+      <p>
+      Address:<input type="text" name="address"/>
+      </p>
+      <input type="submit" value="Submit"/>
+      </form>
+
+{% endblock content %}
